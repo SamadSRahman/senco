@@ -1,0 +1,73 @@
+.wrapper{
+    background-image: url('C:\Users\HI\Desktop\SenCo\senco\public\mob-bg@2x.png');
+    width: 100%;
+    
+}
+.header{
+    text-align: right;
+    padding: 10px;
+}
+.content{
+    width: 90%  ;
+    margin-bottom: 1rem;
+}
+.subText{
+    color: #ffffff;
+    font-size: 18px;
+}
+.logo{
+    width: 50%;
+
+}
+.coin{
+    width: 80%;
+    margin: -1rem;
+}
+.container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.applyBtn{
+    background-color: black;
+    color: white;
+    width: 70%;
+    height: 3rem;
+    margin: 2rem;
+    border: none;
+    cursor: pointer;
+    letter-spacing: 0.56px;
+}
+.imgSection{
+    display: flex;
+    align-items: flex-end;
+}
+.ceoPic{
+    width: 54%;
+    position: relative;
+    right: 13%;
+}
+.directorPic{
+    width: 47%;
+    position: relative;
+    height: 40%;
+    right: 40%;
+  
+}
+.priestPic{
+    width: 43%;
+    position: relative;
+    height: 11rem;
+   
+    right: 41%;
+}
+.footer{
+    position: relative;
+    bottom: -12rem;
+    color: white;
+    text-shadow: 2px 2px 1px #000000;
+    z-index: 2;
+    margin-bottom: 5px;
+}
